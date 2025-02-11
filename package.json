@@ -1,0 +1,17 @@
+{
+  "name": "cs361-main-program",
+  "version": "1.0.0",
+  "description": "Software Engineering Main Program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8"
+  }
+}

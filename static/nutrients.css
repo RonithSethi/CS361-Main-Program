@@ -1,0 +1,16 @@
+.nutrient-body {
+    display: block;
+    margin: 0 250px;
+}
+
+.nutrient-header {
+    margin: 20px 0px;
+}
+
+.top-nutrient {
+    font-size: 250%;
+}
+
+.nutrient-info {
+    font-size: 125%
+}

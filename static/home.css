@@ -1,0 +1,58 @@
+.home-outer {
+  margin: 0 250px;
+}
+
+.filter-outer {
+  margin: 40px 0;
+}
+
+.temp-header {
+  text-align: center;
+}
+
+.label-zone {
+}
+
+.label-category-text {
+  color: green;
+  font-weight: bold;
+}
+
+.label-name-text {
+  color: green;
+  font-weight: bold;
+}
+
+.food-box {
+  border-top-style: solid;
+  /* border-bottom-style: solid; */
+  border-width: 1px;
+  border-color: rgb(104, 104, 104);
+}
+
+.food-category {
+  display: inline-block;
+  width: 400px;
+}
+
+.food-name {
+  display: inline-block;
+}
+
+.food-category-text,
+.label-category-text {
+  font-size: 20px;
+}
+
+.food-name-text,
+.label-name-text {
+  font-size: 20px;
+}
+
+.food-name-text {
+  display: block;
+}
+
+.food-anchor {
+  color: rgb(64, 64, 255);
+}

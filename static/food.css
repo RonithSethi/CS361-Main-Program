@@ -1,0 +1,42 @@
+a {
+  color: rgb(33, 33, 255);
+}
+
+.back-text-anchor {
+    color: black;
+}
+
+.home-outer {
+  margin: 0 250px;
+}
+
+.nutrition-box {
+}
+
+.nutrition-first-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.food-name {
+  display: inline-block;
+}
+
+.usda-link {
+  display: inline-block;
+  text-align: right;
+}
+
+.nutrition-header {
+  display: inline-block;
+}
+
+.food-image {
+  width: 300px;
+  position: absolute;
+  left: 55vw;
+  top: 100px;
+  z-index: 1;
+}

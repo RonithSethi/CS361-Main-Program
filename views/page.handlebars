@@ -1,0 +1,43 @@
+{{#if welcome}}
+{{> welcome}}
+{{else}}
+{{> navbar}}
+{{/if}}
+{{#if error}}
+{{> 404}}
+{{/if}}
+<main class = "content">
+{{#if more}}    
+{{#if showfilters}}
+{{> filters}}
+{{/if}}
+{{#if homeDisp}}
+{{> home}}
+{{/if}}
+{{#if nutrientsDisp}}
+{{> nutrients}}
+{{/if}}
+{{#if funDisp}}
+{{> fun}}
+{{/if}}
+{{#if funFactDisp}}
+{{#with funData}}
+{{> funfact}}
+{{/with}}
+{{/if}}
+{{#if helpDisp}}
+{{> help}}
+{{/if}}
+{{#if aboutDisp}}
+{{> about}}
+{{/if}}
+{{#if foodDisp}}
+{{#with foodData}}
+{{> foodItem}}
+{{/with}}
+{{/if}}
+</main>
+{{#if showSellSomethingModal}}
+{{> sellModal}}
+{{/if}}
+{{/if}}

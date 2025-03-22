@@ -1,0 +1,1266 @@
+{
+  "Hummus, commercial": {
+    "index": 0,
+    "category": "Legumes and Legume Products"
+  },
+  "Tomatoes, grape, raw": {
+    "index": 1,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Beans, snap, green, canned, regular pack, drained solids": {
+    "index": 2,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Frankfurter, beef, unheated": {
+    "index": 3,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Nuts, almonds, dry roasted, with salt added": {
+    "index": 4,
+    "category": "Nut and Seed Products"
+  },
+  "Kale, raw": {
+    "index": 5,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Egg, whole, raw, frozen, pasteurized": {
+    "index": 6,
+    "category": "Dairy and Egg Products"
+  },
+  "Egg, white, raw, frozen, pasteurized": {
+    "index": 7,
+    "category": "Dairy and Egg Products"
+  },
+  "Egg, white, dried": {
+    "index": 8,
+    "category": "Dairy and Egg Products"
+  },
+  "Onion rings, breaded, par fried, frozen, prepared, heated in oven": {
+    "index": 9,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Pickles, cucumber, dill or kosher dill": {
+    "index": 10,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cheese, parmesan, grated": {
+    "index": 11,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, pasteurized process, American, vitamin D fortified": {
+    "index": 12,
+    "category": "Dairy and Egg Products"
+  },
+  "Grapefruit juice, white, canned or bottled, unsweetened": {
+    "index": 13,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Peaches, yellow, raw": {
+    "index": 14,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Seeds, sunflower seed kernels, dry roasted, with salt added": {
+    "index": 15,
+    "category": "Nut and Seed Products"
+  },
+  "Bread, white, commercially prepared": {
+    "index": 16,
+    "category": "Baked Products"
+  },
+  "Kale, frozen, cooked, boiled, drained, without salt": {
+    "index": 17,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mustard, prepared, yellow": {
+    "index": 18,
+    "category": "Spices and Herbs"
+  },
+  "Kiwifruit, green, raw": {
+    "index": 19,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Nectarines, raw": {
+    "index": 20,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Cheese, cheddar": {
+    "index": 21,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, cottage, lowfat, 2% milkfat": {
+    "index": 22,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, mozzarella, low moisture, part-skim": {
+    "index": 23,
+    "category": "Dairy and Egg Products"
+  },
+  "Egg, whole, dried": {
+    "index": 24,
+    "category": "Dairy and Egg Products"
+  },
+  "Egg, yolk, raw, frozen, pasteurized": {
+    "index": 25,
+    "category": "Dairy and Egg Products"
+  },
+  "Egg, yolk, dried": {
+    "index": 26,
+    "category": "Dairy and Egg Products"
+  },
+  "Yogurt, Greek, plain, nonfat": {
+    "index": 27,
+    "category": "Dairy and Egg Products"
+  },
+  "Yogurt, Greek, strawberry, nonfat": {
+    "index": 28,
+    "category": "Dairy and Egg Products"
+  },
+  "Oil, coconut": {
+    "index": 29,
+    "category": "Fats and Oils"
+  },
+  "Chicken, broilers or fryers, drumstick, meat only, cooked, braised": {
+    "index": 30,
+    "category": "Poultry Products"
+  },
+  "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised": {
+    "index": 31,
+    "category": "Poultry Products"
+  },
+  "Sauce, pasta, spaghetti/marinara, ready-to-serve": {
+    "index": 32,
+    "category": "Soups, Sauces, and Gravies"
+  },
+  "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)": {
+    "index": 33,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Olives, green, Manzanilla, stuffed with pimiento": {
+    "index": 34,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Cookies, oatmeal, soft, with raisins": {
+    "index": 35,
+    "category": "Baked Products"
+  },
+  "Tomatoes, canned, red, ripe, diced": {
+    "index": 36,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Fish, haddock, raw": {
+    "index": 37,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, pollock, raw": {
+    "index": 38,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, tuna, light, canned in water, drained solids": {
+    "index": 39,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Restaurant, Chinese, fried rice, without meat": {
+    "index": 40,
+    "category": "Restaurant Foods"
+  },
+  "Restaurant, Latino, tamale, pork": {
+    "index": 41,
+    "category": "Restaurant Foods"
+  },
+  "Restaurant, Latino, pupusas con frijoles (pupusas, bean)": {
+    "index": 42,
+    "category": "Restaurant Foods"
+  },
+  "Bread, whole-wheat, commercially prepared": {
+    "index": 43,
+    "category": "Baked Products"
+  },
+  "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted": {
+    "index": 44,
+    "category": "Beef Products"
+  },
+  "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw": {
+    "index": 45,
+    "category": "Beef Products"
+  },
+  "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw": {
+    "index": 46,
+    "category": "Beef Products"
+  },
+  "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw": {
+    "index": 47,
+    "category": "Beef Products"
+  },
+  "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw": {
+    "index": 48,
+    "category": "Beef Products"
+  },
+  "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled": {
+    "index": 49,
+    "category": "Beef Products"
+  },
+  "Carrots, frozen, unprepared": {
+    "index": 50,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cheese, dry white, queso seco": {
+    "index": 51,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, ricotta, whole milk": {
+    "index": 52,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, swiss": {
+    "index": 53,
+    "category": "Dairy and Egg Products"
+  },
+  "Figs, dried, uncooked": {
+    "index": 54,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Lettuce, cos or romaine, raw": {
+    "index": 55,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Melons, cantaloupe, raw": {
+    "index": 56,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Oranges, raw, navels": {
+    "index": 57,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D": {
+    "index": 58,
+    "category": "Dairy and Egg Products"
+  },
+  "Pears, raw, bartlett": {
+    "index": 59,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Restaurant, Chinese, sweet and sour pork": {
+    "index": 60,
+    "category": "Restaurant Foods"
+  },
+  "Salt, table, iodized": {
+    "index": 61,
+    "category": "Spices and Herbs"
+  },
+  "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)": {
+    "index": 62,
+    "category": "Dairy and Egg Products"
+  },
+  "Sauce, salsa, ready-to-serve": {
+    "index": 63,
+    "category": "Soups, Sauces, and Gravies"
+  },
+  "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D": {
+    "index": 64,
+    "category": "Dairy and Egg Products"
+  },
+  "Sausage, breakfast sausage, beef, pre-cooked, unprepared": {
+    "index": 65,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Sausage, Italian, pork, mild, cooked, pan-fried": {
+    "index": 66,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Sausage, pork, chorizo, link or ground, cooked, pan-fried": {
+    "index": 67,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Milk, whole, 3.25% milkfat, with added vitamin D": {
+    "index": 68,
+    "category": "Dairy and Egg Products"
+  },
+  "Sausage, turkey, breakfast links, mild, raw": {
+    "index": 69,
+    "category": "Sausages and Luncheon Meats"
+  },
+  "Sugars, granulated": {
+    "index": 70,
+    "category": "Sweets"
+  },
+  "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles": {
+    "index": 71,
+    "category": "Poultry Products"
+  },
+  "Ham, sliced, restaurant": {
+    "index": 72,
+    "category": "Pork Products"
+  },
+  "Cheese, American, restaurant": {
+    "index": 73,
+    "category": "Dairy and Egg Products"
+  },
+  "Beans, Dry, Medium Red (0% moisture)": {
+    "index": 74,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Red (0% moisture)": {
+    "index": 75,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Flor de Mayo (0% moisture)": {
+    "index": 76,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Brown (0% moisture)": {
+    "index": 77,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Tan (0% moisture)": {
+    "index": 78,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Light Tan (0% moisture)": {
+    "index": 79,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Carioca (0% moisture)": {
+    "index": 80,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Cranberry (0% moisture)": {
+    "index": 81,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Light Red Kidney (0% moisture)": {
+    "index": 82,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Pink (0% moisture)": {
+    "index": 83,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Dark Red Kidney (0% moisture)": {
+    "index": 84,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Navy (0% moisture)": {
+    "index": 85,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Small White (0% moisture)": {
+    "index": 86,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Small Red (0% moisture)": {
+    "index": 87,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Black (0% moisture)": {
+    "index": 88,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Pinto (0% moisture)": {
+    "index": 89,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, Dry, Great Northern (0% moisture)": {
+    "index": 90,
+    "category": "Legumes and Legume Products"
+  },
+  "Broccoli, raw": {
+    "index": 91,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Ketchup, restaurant": {
+    "index": 92,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Eggs, Grade A, Large, egg white": {
+    "index": 93,
+    "category": "Dairy and Egg Products"
+  },
+  "Eggs, Grade A, Large, egg yolk": {
+    "index": 94,
+    "category": "Dairy and Egg Products"
+  },
+  "Oil, canola": {
+    "index": 95,
+    "category": "Fats and Oils"
+  },
+  "Oil, corn": {
+    "index": 96,
+    "category": "Fats and Oils"
+  },
+  "Oil, soybean": {
+    "index": 97,
+    "category": "Fats and Oils"
+  },
+  "Oil, olive, extra virgin": {
+    "index": 98,
+    "category": "Fats and Oils"
+  },
+  "Eggs, Grade A, Large, egg whole": {
+    "index": 99,
+    "category": "Dairy and Egg Products"
+  },
+  "Pork, cured, bacon, cooked, restaurant": {
+    "index": 100,
+    "category": "Pork Products"
+  },
+  "Butter, stick, unsalted": {
+    "index": 101,
+    "category": "Dairy and Egg Products"
+  },
+  "Flour, wheat, all-purpose, enriched, bleached": {
+    "index": 102,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, wheat, all-purpose, enriched, unbleached": {
+    "index": 103,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, wheat, all-purpose, unenriched, unbleached": {
+    "index": 104,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, whole wheat, unenriched": {
+    "index": 105,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, bread, white, enriched, unbleached": {
+    "index": 106,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, rice, white, unenriched": {
+    "index": 107,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, corn, yellow, fine meal, enriched": {
+    "index": 108,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Butter, stick, salted": {
+    "index": 109,
+    "category": "Dairy and Egg Products"
+  },
+  "Onions, red, raw": {
+    "index": 110,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Onions, yellow, raw": {
+    "index": 111,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Garlic, raw": {
+    "index": 112,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Flour, soy, defatted": {
+    "index": 113,
+    "category": "Legumes and Legume Products"
+  },
+  "Flour, soy, full-fat": {
+    "index": 114,
+    "category": "Legumes and Legume Products"
+  },
+  "Flour, rice, brown": {
+    "index": 115,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, rice, glutinous": {
+    "index": 116,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, pastry, unenriched, unbleached": {
+    "index": 117,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Onions, white, raw": {
+    "index": 118,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Bananas, overripe, raw": {
+    "index": 119,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Bananas, ripe and slightly ripe, raw": {
+    "index": 120,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Apples, red delicious, with skin, raw": {
+    "index": 121,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Apples, fuji, with skin, raw": {
+    "index": 122,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Apples, gala, with skin, raw": {
+    "index": 123,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Apples, granny smith, with skin, raw": {
+    "index": 124,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Apples, honeycrisp, with skin, raw": {
+    "index": 125,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Oil, peanut": {
+    "index": 126,
+    "category": "Fats and Oils"
+  },
+  "Oil, sunflower": {
+    "index": 127,
+    "category": "Fats and Oils"
+  },
+  "Oil, safflower": {
+    "index": 128,
+    "category": "Fats and Oils"
+  },
+  "Oil, olive, extra light": {
+    "index": 129,
+    "category": "Fats and Oils"
+  },
+  "Mushroom, lion's mane": {
+    "index": 130,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, oyster": {
+    "index": 131,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushrooms, shiitake": {
+    "index": 132,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushrooms, white button": {
+    "index": 133,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Soy milk, unsweetened, plain, shelf stable": {
+    "index": 134,
+    "category": "Legumes and Legume Products"
+  },
+  "Almond milk, unsweetened, plain, shelf stable": {
+    "index": 135,
+    "category": "Beverages"
+  },
+  "Spinach, baby": {
+    "index": 136,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Spinach, mature": {
+    "index": 137,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomato, roma": {
+    "index": 138,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Flour, 00": {
+    "index": 139,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, spelt, whole grain": {
+    "index": 140,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, semolina, coarse and semi-coarse": {
+    "index": 141,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, semolina, fine": {
+    "index": 142,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Apple juice, with added vitamin C, from concentrate, shelf stable": {
+    "index": 143,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Orange juice, no pulp, not fortified, from concentrate, refrigerated": {
+    "index": 144,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Grape juice, purple, with added vitamin C, from concentrate, shelf stable": {
+    "index": 145,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Grape juice, white, with added vitamin C, from concentrate, shelf stable": {
+    "index": 146,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Cranberry juice, not fortified, from concentrate, shelf stable": {
+    "index": 147,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Grapefruit juice, red, not fortified, not from concentrate, refrigerated": {
+    "index": 148,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Tomato juice, with added ingredients, from concentrate, shelf stable": {
+    "index": 149,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Orange juice, no pulp, not fortified, not from concentrate, refrigerated": {
+    "index": 150,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Mushroom, portabella": {
+    "index": 151,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, king oyster": {
+    "index": 152,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, enoki": {
+    "index": 153,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, crimini": {
+    "index": 154,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, maitake": {
+    "index": 155,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, beech": {
+    "index": 156,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Mushroom, pioppini": {
+    "index": 157,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Soy milk, sweetened, plain, refrigerated": {
+    "index": 158,
+    "category": "Legumes and Legume Products"
+  },
+  "Almond milk, unsweetened, plain, refrigerated": {
+    "index": 159,
+    "category": "Beverages"
+  },
+  "Oat milk, unsweetened, plain, refrigerated": {
+    "index": 160,
+    "category": "Beverages"
+  },
+  "Carrots, mature, raw": {
+    "index": 161,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Carrots, baby, raw": {
+    "index": 162,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Peppers, bell, green, raw": {
+    "index": 163,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Peppers, bell, yellow, raw": {
+    "index": 164,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Peppers, bell, red, raw": {
+    "index": 165,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Peppers, bell, orange, raw": {
+    "index": 166,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Buttermilk, low fat": {
+    "index": 167,
+    "category": "Dairy and Egg Products"
+  },
+  "Yogurt, plain, whole milk": {
+    "index": 168,
+    "category": "Dairy and Egg Products"
+  },
+  "Yogurt, Greek, plain, whole milk": {
+    "index": 169,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, parmesan, grated, refrigerated": {
+    "index": 170,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, feta, whole milk, crumbled": {
+    "index": 171,
+    "category": "Dairy and Egg Products"
+  },
+  "Flour, almond": {
+    "index": 172,
+    "category": "Nut and Seed Products"
+  },
+  "Flour, oat, whole grain": {
+    "index": 173,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, potato": {
+    "index": 174,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Peanut butter, creamy": {
+    "index": 175,
+    "category": "Legumes and Legume Products"
+  },
+  "Sesame butter, creamy": {
+    "index": 176,
+    "category": "Nut and Seed Products"
+  },
+  "Almond butter, creamy": {
+    "index": 177,
+    "category": "Nut and Seed Products"
+  },
+  "Flaxseed, ground": {
+    "index": 178,
+    "category": "Nut and Seed Products"
+  },
+  "Cottage cheese, full fat, large or small curd": {
+    "index": 179,
+    "category": "Dairy and Egg Products"
+  },
+  "Cream cheese, full fat, block": {
+    "index": 180,
+    "category": "Dairy and Egg Products"
+  },
+  "Cream, heavy": {
+    "index": 181,
+    "category": "Dairy and Egg Products"
+  },
+  "Cream, sour, full fat": {
+    "index": 182,
+    "category": "Dairy and Egg Products"
+  },
+  "Lettuce, iceberg, raw": {
+    "index": 183,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Lettuce, romaine, green, raw": {
+    "index": 184,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Lettuce, leaf, red, raw": {
+    "index": 185,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Lettuce, leaf, green, raw": {
+    "index": 186,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Nuts, pine nuts, raw": {
+    "index": 187,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, almonds, whole, raw": {
+    "index": 188,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, walnuts, English, halves, raw": {
+    "index": 189,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, pecans, halves, raw": {
+    "index": 190,
+    "category": "Nut and Seed Products"
+  },
+  "Oats, whole grain, rolled, old fashioned": {
+    "index": 191,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Oats, whole grain, steel cut": {
+    "index": 192,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Pineapple, raw": {
+    "index": 193,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Cherries, sweet, dark red, raw": {
+    "index": 194,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Beans, snap, green, raw": {
+    "index": 195,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Potatoes, russet, without skin, raw": {
+    "index": 196,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Potatoes, red, without skin, raw": {
+    "index": 197,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Potatoes, gold, without skin, raw": {
+    "index": 198,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Sweet potatoes, orange flesh, without skin, raw": {
+    "index": 199,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Celery, raw": {
+    "index": 200,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cucumber, with peel, raw": {
+    "index": 201,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cabbage, green, raw": {
+    "index": 202,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cabbage, red, raw": {
+    "index": 203,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Strawberries, raw": {
+    "index": 204,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Raspberries, raw": {
+    "index": 205,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Blueberries, raw": {
+    "index": 206,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Grapes, red, seedless, raw": {
+    "index": 207,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Grapes, green, seedless, raw": {
+    "index": 208,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Applesauce, unsweetened, with added vitamin C": {
+    "index": 209,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Flour, amaranth": {
+    "index": 210,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, quinoa": {
+    "index": 211,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, sorghum": {
+    "index": 212,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, buckwheat": {
+    "index": 213,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, rye": {
+    "index": 214,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, barley": {
+    "index": 215,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Flour, cassava": {
+    "index": 216,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Buckwheat, whole grain": {
+    "index": 217,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Millet, whole grain": {
+    "index": 218,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Rice, brown, long grain, unenriched, raw": {
+    "index": 219,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Rice, white, long grain, unenriched, raw": {
+    "index": 220,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Beef, ground, 90% lean meat / 10% fat, raw": {
+    "index": 221,
+    "category": "Beef Products"
+  },
+  "Beef, ground, 80% lean meat / 20% fat, raw": {
+    "index": 222,
+    "category": "Beef Products"
+  },
+  "Pork, ground, raw": {
+    "index": 223,
+    "category": "Pork Products"
+  },
+  "Chicken, ground, with additives, raw": {
+    "index": 224,
+    "category": "Poultry Products"
+  },
+  "Turkey, ground, 93% lean/ 7% fat, raw": {
+    "index": 225,
+    "category": "Poultry Products"
+  },
+  "Nuts, brazilnuts, raw": {
+    "index": 226,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, cashew nuts, raw": {
+    "index": 227,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, hazelnuts or filberts, raw": {
+    "index": 228,
+    "category": "Nut and Seed Products"
+  },
+  "Peanuts, raw": {
+    "index": 229,
+    "category": "Legumes and Legume Products"
+  },
+  "Flour, chestnut": {
+    "index": 230,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, macadamia nuts, raw": {
+    "index": 231,
+    "category": "Nut and Seed Products"
+  },
+  "Nuts, pistachio nuts, raw": {
+    "index": 232,
+    "category": "Nut and Seed Products"
+  },
+  "Seeds, pumpkin seeds (pepitas), raw": {
+    "index": 233,
+    "category": "Nut and Seed Products"
+  },
+  "Seeds, sunflower seed, kernel, raw": {
+    "index": 234,
+    "category": "Nut and Seed Products"
+  },
+  "Flour, coconut": {
+    "index": 235,
+    "category": "Nut and Seed Products"
+  },
+  "Beans, cannellini, dry": {
+    "index": 236,
+    "category": "Legumes and Legume Products"
+  },
+  "Chickpeas, (garbanzo beans, bengal gram), dry": {
+    "index": 237,
+    "category": "Legumes and Legume Products"
+  },
+  "Lentils, dry": {
+    "index": 238,
+    "category": "Legumes and Legume Products"
+  },
+  "Blackeye pea, dry": {
+    "index": 239,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, black, canned, sodium added, drained and rinsed": {
+    "index": 240,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, navy, canned, sodium added, drained and rinsed": {
+    "index": 241,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, cannellini, canned, sodium added, drained and rinsed": {
+    "index": 242,
+    "category": "Legumes and Legume Products"
+  },
+  "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed": {
+    "index": 243,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed": {
+    "index": 244,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed": {
+    "index": 245,
+    "category": "Legumes and Legume Products"
+  },
+  "Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed": {
+    "index": 246,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Beans, pinto, canned, sodium added, drained and rinsed": {
+    "index": 247,
+    "category": "Legumes and Legume Products"
+  },
+  "Blackeye pea, canned, sodium added, drained and rinsed": {
+    "index": 248,
+    "category": "Legumes and Legume Products"
+  },
+  "Beans, great northern, canned, sodium added, drained and rinsed": {
+    "index": 249,
+    "category": "Legumes and Legume Products"
+  },
+  "Pork, loin, boneless, raw": {
+    "index": 250,
+    "category": "Pork Products"
+  },
+  "Pork, loin, tenderloin, boneless, raw": {
+    "index": 251,
+    "category": "Pork Products"
+  },
+  "Chicken, breast, boneless, skinless, raw": {
+    "index": 252,
+    "category": "Poultry Products"
+  },
+  "Chicken, thigh, boneless, skinless, raw": {
+    "index": 253,
+    "category": "Poultry Products"
+  },
+  "Beef, ribeye, steak, boneless, choice, raw": {
+    "index": 254,
+    "category": "Beef Products"
+  },
+  "Beef, round, top round, boneless, choice, raw": {
+    "index": 255,
+    "category": "Beef Products"
+  },
+  "Beef, chuck, roast, boneless, choice, raw": {
+    "index": 256,
+    "category": "Beef Products"
+  },
+  "Beef, flank, steak, boneless, choice, raw": {
+    "index": 257,
+    "category": "Beef Products"
+  },
+  "Yogurt, plain, nonfat": {
+    "index": 258,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, monterey jack, solid": {
+    "index": 259,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, pasteurized process cheese food or product, American, singles": {
+    "index": 260,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, provolone, sliced": {
+    "index": 261,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, oaxaca, solid": {
+    "index": 262,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, queso fresco, solid": {
+    "index": 263,
+    "category": "Dairy and Egg Products"
+  },
+  "Cheese, cotija, solid": {
+    "index": 264,
+    "category": "Dairy and Egg Products"
+  },
+  "Fish, salmon, sockeye, wild caught, raw": {
+    "index": 265,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, salmon, Atlantic, farm raised, raw": {
+    "index": 266,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, tilapia, farm raised, raw": {
+    "index": 267,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Crustaceans, shrimp, farm raised, raw": {
+    "index": 268,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, cod, Atlantic, wild caught, raw": {
+    "index": 269,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Fish, catfish, farm raised, raw": {
+    "index": 270,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated": {
+    "index": 271,
+    "category": "Finfish and Shellfish Products"
+  },
+  "Squash, summer, green, zucchini, includes skin, raw": {
+    "index": 272,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Squash, summer, yellow, includes skin, raw": {
+    "index": 273,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Squash, winter, butternut, raw": {
+    "index": 274,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Squash, winter, acorn, raw": {
+    "index": 275,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cabbage, bok choy, raw": {
+    "index": 276,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Cauliflower, raw": {
+    "index": 277,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Collards, raw": {
+    "index": 278,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Brussels sprouts, raw": {
+    "index": 279,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Beets, raw": {
+    "index": 280,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Eggplant, raw": {
+    "index": 281,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomatoes, whole, canned, solids and liquids, with salt added": {
+    "index": 282,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomato, sauce, canned, with salt added": {
+    "index": 283,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomato, paste, canned, without salt added": {
+    "index": 284,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomatoes, crushed, canned": {
+    "index": 285,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Tomato, puree, canned": {
+    "index": 286,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Apricot, with skin, raw": {
+    "index": 287,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Melons, honeydew, raw": {
+    "index": 288,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Plantains, ripe, raw": {
+    "index": 289,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Plantains, underripe, raw": {
+    "index": 290,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Chia seeds, dry, raw": {
+    "index": 291,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Bulgur, dry, raw": {
+    "index": 292,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Wild rice, dry, raw": {
+    "index": 293,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Arugula, baby, raw": {
+    "index": 294,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Asparagus, green, raw": {
+    "index": 295,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Avocado, Hass, peeled, raw": {
+    "index": 296,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Rice, black, unenriched, raw": {
+    "index": 297,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Corn, sweet, yellow and white kernels,  fresh, raw": {
+    "index": 298,
+    "category": "Vegetables and Vegetable Products"
+  },
+  "Einkorn, grain, dry, raw": {
+    "index": 299,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Farro, pearled, dry, raw": {
+    "index": 300,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Fonio, grain, dry, raw": {
+    "index": 301,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Khorasan, grain, dry, raw": {
+    "index": 302,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Kiwifruit (kiwi), green, peeled, raw": {
+    "index": 303,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Mandarin, seedless, peeled, raw": {
+    "index": 304,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Mango, Tommy Atkins, peeled, raw": {
+    "index": 305,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Mango, Ataulfo, peeled, raw": {
+    "index": 306,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Corn flour, masa harina, white or yellow, dry, raw": {
+    "index": 307,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Pear, Anjou, green, with skin, raw": {
+    "index": 308,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Plum, black, with skin, raw": {
+    "index": 309,
+    "category": "Fruits and Fruit Juices"
+  },
+  "Rice, red, unenriched, dry, raw": {
+    "index": 310,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Sorghum bran, white, unenriched, dry, raw": {
+    "index": 311,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Sorghum flour, white, pearled, unenriched, dry, raw": {
+    "index": 312,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Sorghum grain, white, pearled, unenriched, dry, raw": {
+    "index": 313,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Sorghum, whole grain, white, dry, raw": {
+    "index": 314,
+    "category": "Cereal Grains and Pasta"
+  },
+  "Plantains, overripe, raw": {
+    "index": 315,
+    "category": "Fruits and Fruit Juices"
+  }
+}

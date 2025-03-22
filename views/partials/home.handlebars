@@ -1,0 +1,24 @@
+<div class="home-outer">
+  <div class="filter-outer">
+    <h1 class="temp-header">
+      Choose a food item below!
+    </h1>
+  </div>
+
+  <div class="label-zone">
+    <div class="food-category">
+      <p class="label-category-text">
+        Food Category
+      </p>
+    </div>
+    <div class="food-name">
+      <p class="label-name-text">
+        Food item
+      </p>
+    </div>
+  </div>
+
+  {{#each foodList}}
+  {{> foodListItem}}
+  {{/each}}
+</div>
